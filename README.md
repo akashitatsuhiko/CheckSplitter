@@ -32,11 +32,6 @@ A small iPhone utility for splitting one restaurant bill quickly. Enter the numb
 4. Use the Pro options for round-up or extra-payer scenarios
 5. Tap Reset to start over
 
----
-
-## Background
-
-This project also served as a lightweight testbed for implementing In-App Purchase with Claude Code during development.
 
 ---
 

@@ -7,9 +7,9 @@ A small iPhone utility for splitting one restaurant bill quickly. Enter the numb
 ## Screenshots
 
 <p float="left">
-  <img src="app-store-screenshots/screenshot-01-split-the-check.png" width="220" alt="Split the check" />
-  <img src="app-store-screenshots/screenshot-02-tip-amount-or-percentage.png" width="220" alt="Tip as amount or percentage" />
-  <img src="app-store-screenshots/screenshot-03-simple-inputs-clear-results.png" width="220" alt="Simple inputs, clear results" />
+  <img src="app-store-screenshots/screenshot-01-split-the-check.png?raw=1" width="220" alt="Split the check" />
+  <img src="app-store-screenshots/screenshot-02-tip-amount-or-percentage.png?raw=1" width="220" alt="Tip as amount or percentage" />
+  <img src="app-store-screenshots/screenshot-03-simple-inputs-clear-results.png?raw=1" width="220" alt="Simple inputs, clear results" />
 </p>
 
 ---

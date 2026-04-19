@@ -34,6 +34,12 @@ A small iPhone utility for splitting one restaurant bill quickly. Enter the numb
 
 ---
 
+## Background
+
+This project also served as a lightweight testbed for implementing In-App Purchase with Claude Code during development.
+
+---
+
 ## Tech
 
 - SwiftUI

@@ -2,6 +2,8 @@
 
 A small iPhone utility for splitting one restaurant bill quickly. Enter the numbers, see what everyone owes — on a single screen, no account needed.
 
+Service URL: https://apps.apple.com/us/app/split-check-app/id6762537159
+
 ---
 
 ## Screenshots
